@@ -1,0 +1,8 @@
+.bj-table {
+	align-items: center;
+	background-color: #1C2022;
+	color: #fff;
+	display: flex;
+	flex: 1;
+	justify-content: center;
+}

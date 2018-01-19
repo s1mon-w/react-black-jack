@@ -1,0 +1,229 @@
+.bj-card {
+  box-shadow: 0 2px 5px -2px rgba(0, 0, 0, .25);
+  width: 103px;
+  height: 149px;
+  background-position: center;
+  background-size: cover;
+  transition: transform linear 0.05s;
+}
+
+.bj-card:hover {
+  transform: rotate(5deg);
+  transition: transform ease-in 0.1s;
+}
+
+.bj-card-suit-hidden {
+	background-color:#def;
+	background-image: radial-gradient(closest-side, transparent 98%, rgba(0,0,0,.3) 99%),
+	radial-gradient(closest-side, transparent 98%, rgba(0,0,0,.3) 99%);
+	background-size: 30px 30px;
+	background-position:0 0, 15px 15px;
+}
+
+.bj-card-suit-d1 {
+  background-image: url(./assets/AD.svg);
+}
+
+.bj-card-suit-d2 {
+  background-image: url(./assets/2D.svg);
+}
+
+.bj-card-suit-d3 {
+  background-image: url(./assets/3D.svg);
+}
+
+.bj-card-suit-d4 {
+  background-image: url(./assets/4D.svg);
+}
+
+.bj-card-suit-d5 {
+  background-image: url(./assets/5D.svg);
+}
+
+.bj-card-suit-d6 {
+  background-image: url(./assets/6D.svg);
+}
+
+.bj-card-suit-d7 {
+  background-image: url(./assets/7D.svg);
+}
+
+.bj-card-suit-d8 {
+  background-image: url(./assets/8D.svg);
+}
+
+.bj-card-suit-d9 {
+  background-image: url(./assets/9D.svg);
+}
+
+.bj-card-suit-d10 {
+  background-image: url(./assets/10D.svg);
+}
+
+.bj-card-suit-d11 {
+  background-image: url(./assets/JD.svg);
+}
+
+.bj-card-suit-d12 {
+  background-image: url(./assets/QD.svg);
+}
+
+.bj-card-suit-d13 {
+  background-image: url(./assets/KD.svg);
+}
+
+.bj-card-suit-s1 {
+  background-image: url(./assets/AS.svg);
+}
+
+.bj-card-suit-s2 {
+  background-image: url(./assets/2S.svg);
+}
+
+.bj-card-suit-s3 {
+  background-image: url(./assets/3S.svg);
+}
+
+.bj-card-suit-s4 {
+  background-image: url(./assets/4S.svg);
+}
+
+.bj-card-suit-s5 {
+  background-image: url(./assets/5S.svg);
+}
+
+.bj-card-suit-s6 {
+  background-image: url(./assets/6S.svg);
+}
+
+.bj-card-suit-s7 {
+  background-image: url(./assets/7S.svg);
+}
+
+.bj-card-suit-s8 {
+  background-image: url(./assets/8S.svg);
+}
+
+.bj-card-suit-s9 {
+  background-image: url(./assets/9S.svg);
+}
+
+.bj-card-suit-s10 {
+  background-image: url(./assets/10S.svg);
+}
+
+.bj-card-suit-s11 {
+  background-image: url(./assets/JS.svg);
+}
+
+.bj-card-suit-s12 {
+  background-image: url(./assets/QS.svg);
+}
+
+.bj-card-suit-s13 {
+  background-image: url(./assets/KS.svg);
+}
+
+.bj-card-suit-c1 {
+  background-image: url(./assets/AC.svg);
+}
+
+.bj-card-suit-c2 {
+  background-image: url(./assets/2C.svg);
+}
+
+.bj-card-suit-c3 {
+  background-image: url(./assets/3C.svg);
+}
+
+.bj-card-suit-c4 {
+  background-image: url(./assets/4C.svg);
+}
+
+.bj-card-suit-c5 {
+  background-image: url(./assets/5C.svg);
+}
+
+.bj-card-suit-c6 {
+  background-image: url(./assets/6C.svg);
+}
+
+.bj-card-suit-c7 {
+  background-image: url(./assets/7C.svg);
+}
+
+.bj-card-suit-c8 {
+  background-image: url(./assets/8C.svg);
+}
+
+.bj-card-suit-c9 {
+  background-image: url(./assets/9C.svg);
+}
+
+.bj-card-suit-c10 {
+  background-image: url(./assets/10C.svg);
+}
+
+.bj-card-suit-c11 {
+  background-image: url(./assets/JC.svg);
+}
+
+.bj-card-suit-c12 {
+  background-image: url(./assets/QC.svg);
+}
+
+.bj-card-suit-c13 {
+  background-image: url(./assets/KC.svg);
+}
+
+.bj-card-suit-h1 {
+  background-image: url(./assets/AH.svg);
+}
+
+.bj-card-suit-h2 {
+  background-image: url(./assets/2H.svg);
+}
+
+.bj-card-suit-h3 {
+  background-image: url(./assets/3H.svg);
+}
+
+.bj-card-suit-h4 {
+  background-image: url(./assets/4H.svg);
+}
+
+.bj-card-suit-h5 {
+  background-image: url(./assets/5H.svg);
+}
+
+.bj-card-suit-h6 {
+  background-image: url(./assets/6H.svg);
+}
+
+.bj-card-suit-h7 {
+  background-image: url(./assets/7H.svg);
+}
+
+.bj-card-suit-h8 {
+  background-image: url(./assets/8H.svg);
+}
+
+.bj-card-suit-h9 {
+  background-image: url(./assets/9H.svg);
+}
+
+.bj-card-suit-h10 {
+  background-image: url(./assets/10H.svg);
+}
+
+.bj-card-suit-h11 {
+  background-image: url(./assets/JH.svg);
+}
+
+.bj-card-suit-h12 {
+  background-image: url(./assets/QH.svg);
+}
+
+.bj-card-suit-h13 {
+  background-image: url(./assets/KH.svg);
+}

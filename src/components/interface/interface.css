@@ -1,0 +1,20 @@
+.bj-interface {
+	align-content: center;
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	padding: 20px;
+	width: 75%;
+}
+
+.bj-interface__scores {
+	display: flex;
+	justify-content: space-evenly;
+	padding: 10px;
+}
+
+.bj-interface__action-buttons {
+	display: flex;
+	justify-content: space-between;
+	margin: 30px 0;
+}
